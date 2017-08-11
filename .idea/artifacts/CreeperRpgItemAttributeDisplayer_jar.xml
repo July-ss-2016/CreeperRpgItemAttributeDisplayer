@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CreeperRpgItemAttributeDisplayer:jar">
+    <output-path>$PROJECT_DIR$/../../../test_servers/RpgSurvival_0/plugins</output-path>
+    <root id="archive" name="CreeperRpgItemAttributeDisplayer.jar">
+      <element id="module-output" name="CreeperRpgItemAttributeDisplayer" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/items_0_16.yml" />
+    </root>
+  </artifact>
+</component>

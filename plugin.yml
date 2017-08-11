@@ -1,0 +1,7 @@
+name: CreeperRpgItemAttributeDisplayer
+main: vip.creeper.mcserverplugins.creeperrpgitemattributedisplayer.CreeperRpgItemAttributeDisplayer
+author: July_ss
+version: 1.0.0
+depend: [CreeperRpgItem]
+commands:
+  crIad:
